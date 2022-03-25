@@ -1,0 +1,61 @@
+body {
+  background: rgb(52, 52, 52);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+content {
+	color: white;
+}
+
+
+h1 {
+	color: rgb(109, 91, 228);
+}
+h2, h3 {
+	color: rgb(150, 136, 236);
+	text-align: center;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 500px;
+}
+button {
+	width: 200px;
+	height: 30px;
+	background-color: yellow;
+	color: black;
+}
+nav {
+	;
+}
